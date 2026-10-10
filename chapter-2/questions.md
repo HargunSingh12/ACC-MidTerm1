@@ -247,7 +247,7 @@ removeMin → returns 2, 15 moves to the root and downheaps: **[4, 8, 6, 10, 15]
 
 **D15.** Index 5 has children **10 and 11** and parent **⌊5/2⌋ = 2**. A heap of 1,000 keys has height **⌊log₂ 1000⌋ = 9**.
 
-**D16.** Children at **4i + 1, 4i + 2, 4i + 3, 4i + 4**; parent at **⌊(i − 1)/4⌋**. Levels hold 1, 4, 16, 64, so depths 0–2 hold 21 keys and the remaining 79 fit at depth 3 → **height 3**. A binary heap with 100 keys has height 6.
+**D16.** Children at **4i + 1, 4i + 2, 4i + 3, 4i + 4**; parent at **⌊(i − 1)/4⌋**. Levels hold 1, 4, 16, 64, so depths 0–3 hold 85 keys and the remaining 15 go at depth 4 → **height 4**. A binary heap with 100 keys has height 6.
 
 **D17.**
 
