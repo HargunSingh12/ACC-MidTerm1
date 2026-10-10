@@ -388,4 +388,4 @@ Generics: `public class MyClass<AnyType>`, generic static methods `public static
 - [ ] Trace linear MCSS and the divide-and-conquer border sums by hand
 - [ ] Remember that MCSS = 0 when every number is negative
 
-Practice: in [../practice-questions.md](../practice-questions.md) the Chapter 1 questions are A1, A12, A13, A16, A17, C10, C11, C18, C21–C24, D1–D4, D22, D24–D27 and D47.
+Practice: the full Chapter 1 question bank is in [questions.md](questions.md). In [../practice-questions.md](../practice-questions.md) the Chapter 1 questions are A1, A12, A13, A16, A17, C10, C11, C18, C21–C24, D1–D4, D22, D24–D27 and D47.
