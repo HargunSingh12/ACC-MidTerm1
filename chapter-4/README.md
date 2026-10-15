@@ -1,6 +1,6 @@
 # Chapter 4: Sorting
 
-COMP 8547 Advanced Computing Concepts, Mid-Term I (Friday 23 October 2026). This page covers **only Chapter 4**: mergesort, quicksort, heapsort, the other comparison sorts, selection, bucket sort, radix sort and counting sort. Everything comes from the Chapter 4 slides. Practice questions are in [questions.md](questions.md).
+COMP 8547 Advanced Computing Concepts, Mid-Term I (Friday 23 October 2026). This page covers **only Chapter 4**: mergesort, quicksort, heapsort, the other comparison sorts, selection, bucket sort, radix sort and counting sort. Everything comes from the Chapter 4 slides. Practice questions are in [questions.md](questions.md), and open-ended "which sort would you choose? Justify your answer" scenarios are in [justify-questions.md](justify-questions.md).
 
 **On this page**
 1. [Sorting basics](#1-sorting-basics)
