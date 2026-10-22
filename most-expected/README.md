@@ -2,6 +2,8 @@
 
 COMP 8547, Chapters 1–4. **14:30–17:30 (2 hours of writing), closed book, bring pens.** ER 3119, ER 3120, LT 3107.
 
+**No prep yet? Follow the [21-hour plan](21-hour-plan.md).**
+
 This page is the night-before list: the questions most likely to appear, with short answers. It is based on:
 - the exam info page and its four sample questions
 - the three "Sample Mid-Term Questions" at the end of the Chapter 4 slides
