@@ -6,3 +6,7 @@ Study materials for Mid-Term I on **Friday 23 October 2026**, covering Chapters 
 |---|---|
 | [study-guide.md](study-guide.md) | Exam format, chapter-by-chapter notes, practical applications, and a two-week study plan |
 | [practice-questions.md](practice-questions.md) | Practice questions in the exam's four sections, with a full answer key at the end |
+
+## Mid-Term 2
+
+Mid-Term II materials (Chapters 5 to 8) are in [midterm2/](midterm2/README.md).
